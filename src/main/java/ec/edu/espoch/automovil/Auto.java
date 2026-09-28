@@ -11,7 +11,7 @@ public class Auto {
     public int doors;
     public  int seast;
     public  float MaximumSpeed;
-    public Color color;
+    public Color COLOR;
     public  float currenctSpeed;
     public TipodeCoche tipodecoche;
     public COMBUSTIBLE combustible;
@@ -23,7 +23,7 @@ public class Auto {
         this.doors = doors;
         this.seast = seast;
         this.MaximumSpeed = MaximumSpeed;
-        this.color = color;
+        this.COLOR = color;
         this.currenctSpeed = currenctSpeed;
         this.tipodecoche = tipodecoche;
         this.combustible = combustible;
