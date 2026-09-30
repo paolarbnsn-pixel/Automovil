@@ -96,6 +96,9 @@ public class Auto {
     public void setCombustible(COMBUSTIBLE combustible) {
         this.combustible = combustible;
     }
+
+    public Auto() {
+    }
     
     
 
